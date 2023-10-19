@@ -19,7 +19,7 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with React, Remix, Typescript, <br /> Node.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Draneee).
 - 💬 &nbsp; Ask me about anything [here](t)! I am happy to help.
