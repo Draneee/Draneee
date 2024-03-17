@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I am a Software Engineer with 3 years experience in developing web and mobile applications using technologies such as React, TypeScript, JavaScript, Next.js, Tailwind, Material UI, Node.js, MongoDB and Express. I am passionate about software development and always strive to learn new skills and improve upon existing ones. With my experience in developing projects from scratch to deployment, as well as my understanding of agile methodologies and best development practices, I consider myself capable of contributing to collaborative and dynamic teams to build innovative and scalable solutions.
+I am a Software Engineer with +4 years experience in developing web and mobile applications using technologies such as React, TypeScript, JavaScript, Next.js, Tailwind, Material UI, Node.js, Nest. I am passionate about software development and always strive to learn new skills and improve upon existing ones. With my experience in developing projects from scratch to deployment, as well as my understanding of agile methodologies and best development practices, I consider myself capable of contributing to collaborative and dynamic teams to build innovative and scalable solutions.
 
 Joined Github **3** years ago.
 
