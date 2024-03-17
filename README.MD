@@ -10,17 +10,17 @@ I am a Software Engineer with +4 years experience in developing web and mobile a
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with React, Remix, Typescript, <br /> Node.
+- 🛠 &nbsp; I’m currently working with React, Next, Typescript, Node.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Draneee).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on my [Porfolio](https://dranee.vercel.app).
 - 💬 &nbsp; Ask me about anything [here](t)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: adrianavilatech@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://adrian-avila.vercel.app/Adrian-Avila-Frontend-2023.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://dranee.vercel.app/Curriculum%20Software%20Engineer%20Adrian%20Avila.pdf).
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love build cool stuffs and drive superbikes.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
