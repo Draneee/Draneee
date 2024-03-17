@@ -7,15 +7,6 @@
 
 I am a Software Engineer with +4 years experience in developing web and mobile applications using technologies such as React, TypeScript, JavaScript, Next.js, Tailwind, Material UI, Node.js, Nest. I am passionate about software development and always strive to learn new skills and improve upon existing ones. With my experience in developing projects from scratch to deployment, as well as my understanding of agile methodologies and best development practices, I consider myself capable of contributing to collaborative and dynamic teams to build innovative and scalable solutions.
 
-Joined Github **3** years ago.
-
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/Draneee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
-<img align="right" height="250" width="375" alt="" src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp" />
 
 ### Talking about Personal Stuffs:
 
