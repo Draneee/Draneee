@@ -2,7 +2,7 @@
 
 [![Website Badge](https://img.shields.io/badge/Portfolio-924eff?style=for-the-badge&logo=About.me&logoColor=white)](https://adrian-avila.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0B66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-avila-diaz/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-FCAF45?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gordovegan0/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gordovegan0/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
